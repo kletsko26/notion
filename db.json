@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": "dda90679-e717-4284-98cb-72dbbca157be",
+      "email": "novapride27@gmail.com",
+      "password": "Aelegrampass2",
+      "createdAt": 1732282651101
+    }
+  ],
+  "notes": [
+    {
+      "id": "dda90679",
+      "authorId": "dda90679-e717-4284-98cb-72dbbca157be",
+      "title": "Первая заметка",
+      "body": "Тело первой заметки",
+      "createdAt": 1700313547100
+    },
+    {
+      "id": "df1a271f-54c2-4965-94fa-359ba9b730df",
+      "title": "иЗМЕНИЛ",
+      "body": "",
+      "authorId": "dda90679-e717-4284-98cb-72dbbca157be",
+      "createdAt": 1732290667754
+    },
+    {
+      "id": "c1589cc1-411d-4656-bb7d-be90a0f950a1",
+      "title": "adasdas",
+      "body": "dasdasd",
+      "authorId": "dda90679-e717-4284-98cb-72dbbca157be",
+      "createdAt": 1732292059816
+    }
+  ]
+}
